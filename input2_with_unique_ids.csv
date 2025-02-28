@@ -1,0 +1,7 @@
+EmailID,PhoneID,EmailAndPhoneID,FirstName,LastName,Phone1,Phone2,Email1,Email2,Zip
+ae5912d9-5b0d-4c02-9810-ddb04ba4c40c,690ddba6-5c9e-4449-bf5d-608538bcff9d,953044e3-edc4-4f77-837a-c32a1c8071bf,John,Doe,(555) 123-4567,(555) 987-6543,johnd@home.com,"",94105
+ae5912d9-5b0d-4c02-9810-ddb04ba4c40c,690ddba6-5c9e-4449-bf5d-608538bcff9d,953044e3-edc4-4f77-837a-c32a1c8071bf,Jane,Doe,(555) 123-4567,(555) 654-9873,janed@home.com,johnd@home.com,94105
+c8db55b5-41b3-4d20-9f64-fc99897df711,690ddba6-5c9e-4449-bf5d-608538bcff9d,953044e3-edc4-4f77-837a-c32a1c8071bf,Jack,Doe,(444) 123-4567,(555) 654-9873,jackd@home.com,"",94109
+c8db55b5-41b3-4d20-9f64-fc99897df711,690ddba6-5c9e-4449-bf5d-608538bcff9d,953044e3-edc4-4f77-837a-c32a1c8071bf,John,Doe,(555) 123-4567,(555) 987-6543,jackd@home.com,"",94105
+c8db55b5-41b3-4d20-9f64-fc99897df711,3bced540-43d5-437b-883a-c7a4faff4f40,953044e3-edc4-4f77-837a-c32a1c8071bf,Josh,Doe,(456) 789-0123,"",joshd@home.com,jackd@home.com,94109
+1cee8194-a72e-43a9-a094-49719f7a762f,9411dcbe-5f05-43ca-8a79-45730691771e,a77c010a-f5c5-4127-8ac7-6d83ff9de11c,Jill,Doe,(654) 987-1234,"",jill@home.com,"",94129
